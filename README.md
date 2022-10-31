@@ -2,7 +2,7 @@
 
 <h3>I am a Full-Stack Javascript Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;FrontEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Javascript+Developer;FrontEnd+Developer;ReactJS+Developer)](https://git.io/typing-svg)
 
 
 ### Languages and Tools :
