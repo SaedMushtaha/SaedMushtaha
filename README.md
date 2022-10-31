@@ -1,6 +1,6 @@
 # Hi there, I'm Saed 👋 
 
-<h3>I am a Full-Stack web Developer</h3>
+<h3>I am a Full-Stack Javascript Developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Web+Developer;FrontEnd+Developer)](https://git.io/typing-svg)
 
